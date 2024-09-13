@@ -95,7 +95,7 @@ Step 14 : Additionally create new measure for Date Table for further use
 Step 15 : Link the loan table with Date table by primary and foreign keys
 
 *** AFTER APPLYING VISUALISATION THE REPORT LOKKS LIKE******
-![Screenshot 2024-09-13 172737](https://github.com/user-attachments/assets/0829ada1-a536-400f-af7e-be6502b84709)
+
 
 
 
