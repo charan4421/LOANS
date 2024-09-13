@@ -94,6 +94,72 @@ Step 14 : Additionally create new measure for Date Table for further use
 
 Step 15 : Link the loan table with Date table by primary and foreign keys
 
+*** AFTER APPLYING VISUALISATION THE REPORT LOKKS LIKE******
+![Screenshot 2024-09-13 172737](https://github.com/user-attachments/assets/0829ada1-a536-400f-af7e-be6502b84709)
+
+
+
+Evaluation:
+
+Models were evaluated using metrics such as accuracy, precision, recall, and F1-score for classification models. For regression models, R-squared and Mean Squared Error (MSE) were used.
+
+******INSIGHTS FOR THE PROJECT*****
+
+1. Loan Applications:
+
+Total loan applications: 38.6K
+
+Monthly increase (MoM): 6.9%
+
+There has been a 4.3K loan application increase month-over-month, showing a steady rise in demand for lo                       
+
+
+2. Total Funded Amount:
+
+The total funded amount reached $435.8M, with a 13.0% month-over-month growth.
+
+This indicates healthy bank operations and increased approval rates.
+
+3. Total Amount Received:
+
+The total amount received stood at $473.1M, a 15.8% month-over-month growth.
+
+
+4. Interest Rates:
+
+The average interest rate across all loans is 12.0%, with minor variations (MoM: 3.5%).
+
+
+5. Debt-to-Income (DTI):
+
+The average DTI ratio is 13.3%, which has seen a slight reduction of 2.7% MoM. This suggests better creditworthiness among borrowers.
+
+
+
+6. Loan Distribution:
+
+Loans for car purchases dominate, with a high percentage having mortgage as their home ownership status.
+
+Majority of the loans fall in Grade A and Sub-Grade A1, indicating high-quality loans.
+
+
+
+7. Installments:
+
+A range of installment amounts is observed, with the highest installment being $1,988.98, contributing significantly to the total amount received.
+
+Project Structure:
+
+data_preprocessing.py: Contains all scripts used for cleaning and transforming raw data.
+
+feature_engineering.py: Performs feature extraction and engineering.
+
+modeling.py: Scripts for applying machine learning models.
+
+visualization.pbix: The Power BI file containing the visualized dashboard.
+
+
+
 
 
 
